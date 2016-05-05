@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zhiyue Zu&#39;s Blog</title>
+  <subtitle>(λ () (turn-on-foolish-mode))</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://tissuefluid.github.io/"/>
+  <updated>2016-05-04T02:18:22.000Z</updated>
+  <id>http://tissuefluid.github.io/</id>
+  
+  <author>
+    <name>Zhiyue Zu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My New Happy Hacking Keyboard Pro2</title>
+    <link href="http://tissuefluid.github.io/2016/05/03/My-New-Happy-Hacking-Keyboard-Pro2/"/>
+    <id>http://tissuefluid.github.io/2016/05/03/My-New-Happy-Hacking-Keyboard-Pro2/</id>
+    <published>2016-05-04T00:19:42.000Z</published>
+    <updated>2016-05-04T02:18:22.000Z</updated>
+    
+    <content type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;「工欲善其事，必先利其器。」──《論語·衛靈公》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;Model&quot;&gt;&lt;a href=&quot;#Model&quot; class=&quot;headerlink&quot; title=&quot;Model&quot;&gt;&lt;/a&gt;Model&lt;/h1&gt;&lt;p&gt;Happy Hacking Keyboard Professional2 (White Keytop Print/blank)&lt;/p&gt;
+&lt;h1 id=&quot;Gallery&quot;&gt;&lt;a href=&quot;#Gallery&quot; class=&quot;headerlink&quot; title=&quot;Gallery&quot;&gt;&lt;/a&gt;Gallery&lt;/h1&gt;&lt;img src=&quot;/2016/05/03/My-New-Happy-Hacking-Keyboard-Pro2/1.jpg&quot; alt=&quot;1.jpg&quot; title=&quot;&quot;&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;img src=&quot;/2016/05/03/My-New-Happy-Hacking-Keyboard-Pro2/2.jpg&quot; alt=&quot;2.jpg&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/05/03/My-New-Happy-Hacking-Keyboard-Pro2/3.jpg&quot; alt=&quot;3.jpg&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/05/03/My-New-Happy-Hacking-Keyboard-Pro2/4.jpg&quot; alt=&quot;4.jpg&quot; title=&quot;&quot;&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;「工欲善其事，必先利其器。」──《論語·衛靈公》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;Model&quot;&gt;&lt;a href=&quot;#Model&quot; class=&quot;headerlink&quot; title=&quot;Model&quot;&gt;&lt;/a&gt;Model&lt;/h1&gt;&lt;p&gt;Happy Hacking Keyboard Professional2 (White Keytop Print/blank)&lt;/p&gt;
+&lt;h1 id=&quot;Gallery&quot;&gt;&lt;a href=&quot;#Gallery&quot; class=&quot;headerlink&quot; title=&quot;Gallery&quot;&gt;&lt;/a&gt;Gallery&lt;/h1&gt;&lt;img src=&quot;/2016/05/03/My-New-Happy-Hacking-Keyboard-Pro2/1.jpg&quot; alt=&quot;1.jpg&quot; title=&quot;&quot;&gt;
+    
+    </summary>
+    
+      <category term="Tools" scheme="http://tissuefluid.github.io/categories/Tools/"/>
+    
+    
+      <category term="HHKB" scheme="http://tissuefluid.github.io/tags/HHKB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://tissuefluid.github.io/2016/05/03/hello-world/"/>
+    <id>http://tissuefluid.github.io/2016/05/03/hello-world/</id>
+    <published>2016-05-03T16:14:18.000Z</published>
+    <updated>2016-05-03T16:14:18.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
